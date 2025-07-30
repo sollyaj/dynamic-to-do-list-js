@@ -19,7 +19,7 @@ body {
 }
 
 #task-input {
-    width: 95%;
+    width: 100%;
     padding: 10px ;
     margin-bottom: 10px;
     border: 1px solid #ccc;
